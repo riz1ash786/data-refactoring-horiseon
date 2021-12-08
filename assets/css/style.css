@@ -104,34 +104,34 @@ p {
   margin-bottom: 32px;
   color: #ffffff;
 }
-
+/* heading h3 set to center */
 .benefit-lead h3 {
   margin-bottom: 10px;
   text-align: center;
 }
-
+/* heading h3 set to center */
 .benefit-brand h3 {
   margin-bottom: 10px;
   text-align: center;
 }
-
+/* heading h3 set to center */
 .benefit-cost h3 {
   margin-bottom: 10px;
   text-align: center;
 }
-
+/* margin of image set to 10px 'auto' remains central when webpage window is altered. Display set to block */
 .benefit-lead img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
-
+/* margin of image set to 10px 'auto' remains central when webpage window is altered. Display set to block */
 .benefit-brand img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
-
+/* margin of image set to 10px 'auto' remains central when webpage window is altered. Display set to block */
 .benefit-cost img {
   display: block;
   margin: 10px auto;
@@ -164,7 +164,7 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-
+/* max-height, font-size and margin-bottom for img and h2 heading remain consistent when webpage window size is altered */
 .search-engine-optimization img {
   max-height: 200px;
 }
@@ -191,7 +191,7 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
-
+/* footer padding set to 30px and */
 .footer {
   padding: 30px;
   clear: both;
