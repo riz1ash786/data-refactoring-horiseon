@@ -1,23 +1,36 @@
-# Horiseon Refactor
+# Horiseon Refactoring
 
-## User Story
+## Description
 
-- AS A marketing agency I WANT a codebase that follows accessibility standards SO THAT our own site is optimized for search engines
+- As a marketing agency I WANT a codebase that follows accessibility standards SO THAT our own site is optimized for search engines
+  Refactoring existing code to improve it without changing the output and improve its accessibility.
 
 ## Acceptance Criteria
 
-- GIVEN a webpage meets accessibility standards WHEN I view the source code
+**I have added semantic elements includind 'header', ''nav, 'section', 'aside'**
 
-- THEN I find semantic HTML elements WHEN I view the structure of the HTML elements
+_GIVEN a webpage meets accessibility standards WHEN I view the source code THEN I find semantic HTML elements WHEN I view the structure of the HTML elements_
 
-- THEN I find that the elements follow a logical structure independent of styling and positioning
+**I have improved the sturcture of the header and attempeted to improve the main section**
 
-- WHEN I view the icon and image elements THEN I find accessible alt attributes
+_THEN I find that the elements follow a logical structure independent of styling and positioning_
 
-- WHEN I view the heading attributes THEN they fall in sequential order
+**I have added alt attributes to all img elements**
 
-- WHEN I view the title element THEN I find a concise, descriptive title
+_WHEN I view the icon and image elements THEN I find accessible alt attributes_
+
+**heading atrtributes fall in sequential order**
+
+_WHEN I view the heading attributes THEN they fall in sequential order_
+
+**I have added company name and 'Search Engine Optimization' to the title element**
+
+_WHEN I view the title element THEN I find a concise, descriptive title_
 
 ## The URL of the deployed application
 
+file:///Users/rizwanashraf/Homework/homework-week1/homework-week1/index.html
+
 ## The URL of the GitHub repository
+
+https://github.com/riz1ash786/homework-week1.git
