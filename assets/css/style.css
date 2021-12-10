@@ -4,11 +4,11 @@
   padding: 0;
   margin: 0;
 }
-
+/* add background color to body */
 body {
   background-color: #d9dcd6;
 }
-/* adss padding of 20px to header */
+/* add style to header (adds padding, font style, background color and font color */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -16,16 +16,16 @@ body {
   background-color: #2a607c;
   color: #ffffff;
 }
-/* content is on main axis with display set to inline-block */
+/* content in h1 header is on main axis with display set to inline-block */
 .header h1 {
   display: inline-block;
   font-size: 48px;
 }
-/* letters 'seo' within title are slightly different color */
+/* letters 'seo' within title are a different font color to other letters in title*/
 .header h1 .seo {
   color: #d9dcd6;
 }
-/* sets list items to float right on webpage */
+/* add style to header navigation (adds padding to top, margin, font size and font color and float to right hand side */
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -53,7 +53,7 @@ a {
 p {
   font-size: 16px;
 }
-/* set as primary image takes up all webpage as width is set to 100% */
+/* class hero set as primary image takes up all webpage as width is set to 100% */
 .hero {
   height: 800px;
   width: 100%;

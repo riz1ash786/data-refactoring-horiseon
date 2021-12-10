@@ -16,13 +16,17 @@
 
 - I have added company name and 'Search Engine Optimization' to the title element
 
-## Screenshot
+---
+
+## Screenshot of deployed application
 
 ![screencapture-file-Users-rizwanashraf-Homework-homework-week1-homework-week1-index-html-2021-12-10-15_14_32](https://user-images.githubusercontent.com/93995881/145607732-839a715a-99b1-4a81-b2fb-a087cddc70ab.png)
 
+---
+
 ## The URL of the deployed application
 
-file:///Users/rizwanashraf/Homework/homework-week1/homework-week1/index.html
+https://riz1ash786.github.io/homework-week1/
 
 ## The URL of the GitHub repository
 
