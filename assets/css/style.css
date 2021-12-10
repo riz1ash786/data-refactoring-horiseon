@@ -73,13 +73,13 @@ p {
   float: right;
   margin-left: 25px;
 }
-/* contenet takes up 75% of available space and set to inline-block so that they are one above the other */
+/* content takes up 75% of available space and set to inline-block so that they are stacked */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
-
+/* add style to benefits (adds margin, float to right hand side, padding, font style, background color and font color */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -140,7 +140,7 @@ p {
   max-width: 150px;
 }
 
-/* consitent margin of 50 px for main section content with box height set at 300px */
+/* consistent margin of 50 px for main section content with box height set at 300px */
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -203,7 +203,7 @@ p {
   text-align: center;
 }
 
-/* footer set to an absoulte prefix font size of 20px */
+/* footer set to an absolute prefix font size of 20px */
 .footer h3 {
   font-size: 20px;
 }
