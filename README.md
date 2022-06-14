@@ -20,7 +20,7 @@
 
 ## Screenshot of deployed application
 
-![screencapture-file-Users-rizwanashraf-Homework-homework-week1-homework-week1-index-html-2021-12-10-15_14_32](https://user-images.githubusercontent.com/93995881/145607732-839a715a-99b1-4a81-b2fb-a087cddc70ab.png)
+![Homepage](assets/images/hompage-screenshot.png)
 
 ---
 
